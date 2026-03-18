@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b0db348880ec99bf72312eb2de9746a6",
-"assets/AssetManifest.bin.json": "ec4515154d68727ebd73a571339efa31",
+const RESOURCES = {"assets/AssetManifest.bin": "2e82df827d7c3a7deff3f4e0cd6e9e99",
+"assets/AssetManifest.bin.json": "9b25c1f19e3890181bb0a7befb6fc9f8",
+"assets/assets/Cell%2520Physiology/mcqs.json": "012eef720a4aaaa8140b290761cf160a",
 "assets/assets/Hematology/mcqs.json": "1daf7194587b565badb48a0841b0db2a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "43c80559dc5f506959f836dca018b2c2",
@@ -26,7 +27,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "b0db348880ec99bf72312eb2de9746a6
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "c8d17b27d556b4d93ceea1e9e3e93675",
+"flutter_bootstrap.js": "67d40a4e54cb6a23084e69d1f7dc0817",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
